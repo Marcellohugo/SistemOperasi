@@ -1,0 +1,4 @@
+*/5 * * * * /usr/bin/sh /home/farqil/praktikum-modul-1-b14/task-4/minute5_log.sh
+0 * * * * /usr/bin/sh /home/farqil/praktikum-modul-1-b14/task-4/agg_5min_to_hour.sh
+0 * * * * /usr/bin/sh /home/farqil/praktikum-modul-1-b14/task-4/uptime_monitor.sh
+0 0 * * * /usr/bin/sh /home/farqil/praktikum-modul-1-b14/task-4/cleanup_log.sh
