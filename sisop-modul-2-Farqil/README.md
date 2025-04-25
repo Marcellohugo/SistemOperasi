@@ -428,6 +428,7 @@ gcc Anthony.c -o Anthony
 ![alt text](Dokumentasi/8.png)
 
 melihat isi file untuk memeriksa keberhasilan program
+
 ![alt text](Dokumentasi/9.png)
 
 5. Untuk mempermudah menjalankan keseluruhan, saya membuat interface terminal interaktif.
